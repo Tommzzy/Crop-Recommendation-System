@@ -1,1 +1,1 @@
-# Crop-Recommendation-System
+Project by Nathan Mungai and Thomas Duncan
